@@ -106,7 +106,10 @@ Este proyecto permitió fortalecer conocimientos en:
 
 | Archivo | Descripción |
 |---|---|
-| `dashboard RQ en curso-1.pbix` | Archivo principal del proyecto desarrollado en Power BI |
+| `informe RQ en curso-1.pbix` | Archivo principal del proyecto desarrollado en Power BI |
+| `Panel General RQ En curso.png` | Vista general del seguimiento de requerimientos |
+| `Panel UGR Disponibles.png` | Vista del análisis de colaboradores disponibles |
+| `Panel Cobertura RQ Automatizado.png` | Vista del análisis de posible cobertura de vacantes |
 
 ## ⚠️ Nota sobre los datos
 
