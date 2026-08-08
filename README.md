@@ -45,7 +45,17 @@ El dashboard cuenta con filtros interactivos que permiten segmentar la informaci
 
 ## 📷 Vista del dashboard
 
-*Las capturas del dashboard se incorporarán en esta sección.*
+### Dashboard General RQ En curso
+
+![Dashboard General](panel-general-RQ-en-curso.png)
+
+### Colaboradores Disponibles
+
+![Dashboard Disponibles En Curso](panel-UGR-disponibles.png)
+
+### Posible Cobertura de RQ En Curso
+
+![Dashboard Cobertura Disponibles](panel-cobertura-RQ-automatizado.png)
 
 ## 📁 Contenido del repositorio
 
