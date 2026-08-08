@@ -64,7 +64,30 @@ El dashboard cuenta con filtros interactivos que permiten segmentar la informaci
 - El análisis de posible cobertura permitió identificar **5 vacantes potencialmente cubribles**, equivalentes al **2.43% de las 205 vacantes analizadas**.
 - Se identificó un **déficit de 136 colaboradores** respecto a las necesidades de cobertura evaluadas.
 - Entre los perfiles con mayor dificultad de cobertura se identificaron **Java Backend** y **AI Engineer**.
-  
+
+  ## 🔄 Proceso de análisis
+
+El desarrollo del dashboard siguió un flujo de trabajo orientado a la transformación, modelamiento y análisis de los datos:
+
+1. **Preparación de datos:** organización y revisión de la información proveniente de Excel.
+2. **Limpieza y transformación:** tratamiento de datos mediante Power Query para mejorar la calidad y estructura de la información.
+3. **Modelamiento:** organización de las tablas y relaciones necesarias para el análisis.
+4. **Creación de indicadores:** desarrollo de medidas y cálculos mediante DAX.
+5. **Visualización:** diseño de dashboards interactivos en Power BI.
+6. **Análisis:** identificación de patrones de demanda, disponibilidad, cobertura, perfiles de mayor complejidad y posibles brechas.
+
+## 💡 Principales aprendizajes
+
+Este proyecto permitió fortalecer conocimientos en:
+
+- Limpieza y transformación de datos mediante Power Query.
+- Modelamiento de datos para análisis en Power BI.
+- Creación de medidas e indicadores utilizando DAX.
+- Diseño de dashboards orientados a necesidades de negocio.
+- Análisis de cobertura y disponibilidad de recursos.
+- Identificación de patrones de demanda y perfiles de difícil cobertura.
+- Transformación de datos en información útil para la toma de decisiones.
+
 ## 📷 Vista del dashboard
 
 ### Panel de control general RQ En curso
@@ -84,17 +107,6 @@ El dashboard cuenta con filtros interactivos que permiten segmentar la informaci
 | Archivo | Descripción |
 |---|---|
 | `dashboard rq en curso.pbix` | Archivo principal del proyecto desarrollado en Power BI |
-
-## 💡 Principales aprendizajes
-
-Este proyecto permitió aplicar conocimientos de:
-
-- Modelamiento y organización de datos
-- Limpieza y transformación mediante Power Query
-- Creación de medidas utilizando DAX
-- Diseño de dashboards interactivos
-- Construcción y seguimiento de indicadores
-- Análisis de información orientado a la toma de decisiones
 
 ## ⚠️ Nota sobre los datos
 
