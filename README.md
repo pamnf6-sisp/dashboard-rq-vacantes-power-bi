@@ -17,19 +17,30 @@ Centralizar y visualizar información de los requerimientos de personal para fac
 - **DAX** – Creación de medidas e indicadores
 - **Excel** – Fuente y gestión de datos
 
-## 📊 Principales indicadores y análisis
+## 📊 Principales KPIs y análisis
 
-El dashboard permite analizar información relacionada con:
+El dashboard permite analizar los requerimientos de personal desde diferentes perspectivas, facilitando el seguimiento de vacantes, la identificación de oportunidades de cobertura y el análisis de los principales factores que impactan en la gestión de los requerimientos.
 
-- Requerimientos de personal
-- Estado de las vacantes
-- Cobertura de posiciones
-- Disponibilidad de colaboradores
-- Déficit de cobertura
-- Nivel de antigüedad
-- Clientes
-- Coordinadores
-- Evolución de requerimientos por periodo
+### Indicadores de cobertura y disponibilidad
+
+- **% de cobertura de vacantes:** mide la proporción de vacantes en curso que podrían ser cubiertas mediante colaboradores disponibles, considerando la correspondencia entre conocimientos, perfil y requerimientos de la vacante.
+- **Disponibilidad de colaboradores:** permite identificar colaboradores disponibles que podrían calzar con los perfiles requeridos.
+- **Disponibilidad vs. demanda:** facilita la identificación de oportunidades de asignación y posibles brechas de cobertura.
+
+### Análisis de requerimientos
+
+- **Top de vacantes con mayor cantidad de requerimientos en curso:** permite identificar los perfiles con mayor demanda y analizar posibles causas de concentración.
+- **Top de clientes con mayor cantidad de RQ en curso:** identifica los clientes que concentran mayor demanda de personal.
+- **Nivel de perfil solicitado:** permite analizar la distribución de los requerimientos según el nivel de experiencia o seniority.
+- **Mes con mayor cantidad de solicitudes vigentes:** permite identificar los periodos con mayor volumen de requerimientos.
+
+### Análisis de complejidad y tiempos
+
+- **Perfiles con mayor SLA y demora de cobertura:** permite identificar perfiles complejos o de difícil cobertura y analizar aquellos requerimientos que presentan mayores tiempos de atención.
+
+### Análisis económico
+
+- **% de tasa del colaborador vs. salario:** permite analizar la relación entre la tasa asociada al colaborador y el salario, ayudando a identificar situaciones en las que el costo del recurso puede influir en la decisión del cliente de asumir el costo o descartar la propuesta.
 
 ## 🔎 Funcionalidades
 
@@ -40,9 +51,20 @@ El dashboard cuenta con filtros interactivos que permiten segmentar la informaci
 - Mes
 - Año
 - Tipo de requerimiento
-- Nivel de antigüedad
+- Nivel de perfil / seniority
 - Coordinador
 
+## 🔎 Principales insights
+
+- Se identificaron **205 vacantes correspondientes a 120 requerimientos** actualmente en curso.
+- **Julio concentró el mayor volumen de demanda**, con 97 vacantes vigentes.
+- Los perfiles con mayor cantidad de vacantes en curso fueron **Data Engineer, Analista QA y Analista Programador COBOL**.
+- El nivel **Senior** representa el nivel de perfil más solicitado.
+- Se identificaron **69 colaboradores disponibles**, destacando los perfiles de **Analista Programador** y **Analista de Soporte de Aplicaciones**.
+- El análisis de posible cobertura permitió identificar **5 vacantes potencialmente cubribles**, equivalentes al **2.43% de las 205 vacantes analizadas**.
+- Se identificó un **déficit de 136 colaboradores** respecto a las necesidades de cobertura evaluadas.
+- Entre los perfiles con mayor dificultad de cobertura se identificaron **Java Backend** y **AI Engineer**.
+  
 ## 📷 Vista del dashboard
 
 ### Panel de control general RQ En curso
