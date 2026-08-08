@@ -106,7 +106,7 @@ Este proyecto permitió fortalecer conocimientos en:
 
 | Archivo | Descripción |
 |---|---|
-| `dashboard rq en curso.pbix` | Archivo principal del proyecto desarrollado en Power BI |
+| `dashboard RQ en curso-1.pbix` | Archivo principal del proyecto desarrollado en Power BI |
 
 ## ⚠️ Nota sobre los datos
 
