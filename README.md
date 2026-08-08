@@ -47,7 +47,7 @@ El dashboard cuenta con filtros interactivos que permiten segmentar la informaci
 
 ### Dashboard General RQ En curso
 
-Panel General RQ En curso.png
+![Dashboard General](panel-general-RQ-en-curso.png)
 
 ### Colaboradores Disponibles
 
